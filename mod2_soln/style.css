@@ -1,0 +1,31 @@
+
+body {
+	font-size: 16px;
+	
+}
+
+h3 {
+	width: 159px;
+	margin: 0px;
+	float: right;
+	background-color: #b5873d;
+	font-family: Chilanka,Arial;
+	font-size: 23px;
+	overflow-wrap: break-word;
+	text-align: center;
+	border: 1px solid black;
+
+}
+
+p {
+	font-family: FreeSans;
+	padding: 15px;
+}
+
+h1 {
+	font-size: 33.25px;
+	font-family: Manjari Thin,Arial;
+	font-weight: bold;
+	text-align: center;
+	color: #e11b18;
+}
